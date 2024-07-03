@@ -26,4 +26,4 @@ Bikash Malu
 To clone the project, run the following command:
 
 ```sh
-git clone https://github.com/yourusername/Protofolio.git
+git clone https://github.com/Bikash-Malu/personalportfolio.git
